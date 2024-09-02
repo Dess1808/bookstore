@@ -19,6 +19,7 @@ public class DiscountRules {
 		
 		
 		//test
-		book.showDetails();
+		//book.showDetails();
 	}
 }
+ 
